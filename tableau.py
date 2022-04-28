@@ -1,6 +1,10 @@
 from tqdm import tqdm, tqdm_gui
 from docx import Document
 import itertools, random, time, xlsxwriter, sys, copy, math
+import pytest
+
+assert 1==1
+
 #welcome to 2022
 class Tournament():
     men=[]
