@@ -5,7 +5,7 @@ class Player:
     
     def __init__(self, category) -> None:
         self.id=Player.currentid
-        currentid+=1
+        Player.currentid+=1
         self.category=category
         pass
 
