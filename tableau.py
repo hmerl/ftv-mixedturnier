@@ -564,30 +564,13 @@ class Tournament():
         tournamentResult=[]
                        
         print("Current Batch: 10/6/2")
-        Tournament.CreateTournament(nPlayers=10, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_10_6_2", nGroups=2, nParallel=4)
-        print("Current Batch: 11/6/2")
-        Tournament.CreateTournament(nPlayers=11, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_11_6_2", nGroups=2, nParallel=4)
-        print("Current Batch: 12/6/2")
-        Tournament.CreateTournament(nPlayers=12, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_12_6_2", nGroups=2, nParallel=4)
-        print("Current Batch: 13/6/2")
-        Tournament.CreateTournament(nPlayers=13, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_13_6_2", nGroups=2, nParallel=4)
-        print("Current Batch: 20/6/1")
-        Tournament.CreateTournament(nPlayers=20, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_20_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 21/6/1")
-        Tournament.CreateTournament(nPlayers=21, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_21_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 22/6/1")
-        Tournament.CreateTournament(nPlayers=22, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_22_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 23/6/1")
-        Tournament.CreateTournament(nPlayers=23, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_23_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 24/6/1")
-        Tournament.CreateTournament(nPlayers=24, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_24_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 25/6/1")
-        Tournament.CreateTournament(nPlayers=25, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_25_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 26/6/1")
-        Tournament.CreateTournament(nPlayers=26, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_26_6_1", nGroups=1, nParallel=4)
-        print("Current Batch: 27/6/1")
-        Tournament.CreateTournament(nPlayers=27, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_27_6_1", nGroups=1, nParallel=4)
-
+        Tournament.CreateTournament(nPlayers=10, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2022_10_6_2", nGroups=2, nParallel=4)
+        print("Current Batch: 9/6/2")
+        Tournament.CreateTournament(nPlayers=9, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_11_6_2", nGroups=2, nParallel=4)
+        print("Current Batch: 8/6/2")
+        Tournament.CreateTournament(nPlayers=8, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_12_6_2", nGroups=2, nParallel=4)
+        print("Current Batch: 7/6/2")
+        Tournament.CreateTournament(nPlayers=7, nRounds=6, tournamentResult=tournamentResult, start=time.time(), filename="2020_13_6_2", nGroups=2, nParallel=4)
    
     @staticmethod
     def Runner():
