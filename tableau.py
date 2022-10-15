@@ -606,4 +606,4 @@ class Tournament():
             print("\n*** no result found ***")
 
 # EXECUTION STARTS HERE
-Tournament.BatchRunner()
+Tournament.Runner()
