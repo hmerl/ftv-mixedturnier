@@ -1,1 +1,2 @@
+[![Board Status](https://heeabrainstorm.visualstudio.com/62b3049b-599d-4a08-a4f0-9391a11ea4fb/fb71bd24-072b-4fd4-9db5-3445d44280f8/_apis/work/boardbadge/328217ed-c492-4e7e-92b8-777c4f9843d8)](https://heeabrainstorm.visualstudio.com/62b3049b-599d-4a08-a4f0-9391a11ea4fb/_boards/board/t/fb71bd24-072b-4fd4-9db5-3445d44280f8/Microsoft.RequirementCategory)
 # ftv-mixedturnier
